@@ -1,10 +1,14 @@
-## Integrantes
+# Course manager UCV
 
-1. Gustavo Berne
-2. Daniel Morales
-3. Thibisay Palma
-4. Jesús Portillo
-5. Samantha Ramirez
+Este proyecto es un prototipo para que la Coordinación de Extensión de la Universidad Central de Venezuela pueda manejar sus cursos de extensión y sus propuestas por determinados profesores.
+
+## Colaboradores
+
+- **Gustavo Berne**
+- **Daniel Morales**
+- **Thibisay Palma**
+- **Jesús Portillo**
+- **Samantha Ramirez**
 
 ![DiagramaDeCasosDeUso](DiagramaDeCasosDeUso.png)
 ![PrototipoDeInterfaz](PrototipoDeInterfaz.pdf)
